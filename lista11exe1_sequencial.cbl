@@ -2,7 +2,7 @@
 
       *>Divisão de identificação do programa
        identification division.
-       program-id. "exe1_sequencial".
+       program-id. "lista11exe1_sequencial".
        author. "Daiana Weiss".
        installation. "PC".
        date-written. 23/07/2020.
